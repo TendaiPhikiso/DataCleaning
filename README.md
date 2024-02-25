@@ -8,6 +8,13 @@ The project focuses on standardizing date formats, populating missing values, sp
 ###
 
 # Project Structure
+
+• Applied advanced SQL queries to standardise date formats, populate missing values, and enhance the overall cleanliness of the Nashville Housing dataset.
+
+• Employed SQL functions such as ’SUBSTRING’ and ’PARSENAME’ to efficiently parse and split address fields, improving data structure.
+
+• Utilised Common Table Expressions (CTEs) to identify and remove duplicate records, showcasing strong database management skills. Streamlined the dataset by removing unused columns for enhanced usability.
+
 ### (1) Date Standardization:
 Added a new column, SaleDateConverted, and updated it with the correct date format.
 
